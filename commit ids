@@ -1,0 +1,19 @@
+commit d844e2b7fc9ee44f33ffa2dbf242834dbf7006a5
+Author: Claudius <mbembac@gmail.com>
+Date:   Wed Feb 19 21:38:21 2014 -0500
+
+    Revert "rearraed the items to bring on a trip"
+    
+    This reverts commit 246cc1fd9d6acdd862085c1024aac36f8f5078c5.
+
+commit 246cc1fd9d6acdd862085c1024aac36f8f5078c5
+Author: Claudius <mbembac@gmail.com>
+Date:   Wed Feb 19 21:09:42 2014 -0500
+
+    rearraed the items to bring on a trip
+
+commit 74a879fb12d911cbf3476339c1d9f32fb83077bb
+Author: Claudius <mbembac@gmail.com>
+Date:   Wed Feb 19 20:54:50 2014 -0500
+
+    removed contractions from contact page
